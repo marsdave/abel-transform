@@ -1,2 +1,2 @@
-# abel-invert
-Abel inversions of one- or two-dimensional data.
+# abel-transform
+Abel transformations (forward and inverse) of one- or two-dimensional data.
